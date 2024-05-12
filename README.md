@@ -32,7 +32,7 @@ pip install git+https://github.com/qubvel/segmentation_models.pytorch
 ```
 ### Data preparation
 - Download EarthVQA dataset and pre-trained weights
-- Construct the data as following:
+- Construct the data as follows:
 ```none
 EarthVQA
 ├── Train
