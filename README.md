@@ -75,19 +75,21 @@ If you use EarthVQA in your research, please cite our following papers.
         title={EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering},
         url={https://ojs.aaai.org/index.php/AAAI/article/view/28357}, 
         DOI={10.1609/ai.v38i6.28357}, 
-        author={Wang, Junjue and Zheng, Zhuo and Chen, Zihang and Ma, Ailong and Zhong, Yanfei}, 
+        author={Junjue Wang and Zhuo Zheng and Zihang Chen and Ailong Ai and Yanfei Zhong}, 
         year={2024}, 
         month={Mar.},
         volume={38},
         pages={5481-5489}}
-    @dataset{junjue_wang_2021_5706578,
-        author={Junjue Wang and Zhuo Zheng and Ailong Ma and Xiaoyan Lu and Yanfei Zhong},
-        title={Love{DA}: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation},
-        month=oct,
-        year=2021,
-        publisher={Zenodo},
-        doi={10.5281/zenodo.5706578},
-        url={https://doi.org/10.5281/zenodo.5706578}
+    @article{WANG2024422,
+    title = {EarthVQANet: Multi-task visual question answering for remote sensing image understanding},
+    journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+    volume = {212},
+    pages = {422-439},
+    year = {2024},
+    issn = {0924-2716},
+    doi = {https://doi.org/10.1016/j.isprsjprs.2024.05.001},
+    url = {https://www.sciencedirect.com/science/article/pii/S0924271624001990},
+    author = {Junjue Wang and Ailong Ma and Zihang Chen and Zhuo Zheng and Yuting Wan and Liangpei Zhang and Yanfei Zhong},
     }
 ```
 
