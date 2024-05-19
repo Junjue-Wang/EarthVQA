@@ -80,7 +80,7 @@ If you use EarthVQA in your research, please cite our following papers.
         month={Mar.},
         volume={38},
         pages={5481-5489}}
-    @article{WANG2024422,
+    @article{earthvqanet,
         title = {EarthVQANet: Multi-task visual question answering for remote sensing image understanding},
         journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
         volume = {212},
