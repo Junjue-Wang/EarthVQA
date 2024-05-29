@@ -50,6 +50,7 @@ log
 ├── sfpnr50.pth
 ├── soba.pth
 ```
+Note that the images are the same as the LoveDA dataset, so the urban and rural areas can be divided on your own.
 ### Test
 
 ```bash
