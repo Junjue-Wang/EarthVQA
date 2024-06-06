@@ -23,7 +23,7 @@ data = dict(
                 RandomDropChannel(p=0.5, drop_rate=0.1),
                 RandomRotate90(p=0.5),
                 RandomRotate90(p=0.5)
-            ]),
+            ], is_check_shapes=False),
             training=True,
             batch_size=16,
             num_workers=6,
