@@ -122,7 +122,12 @@ class EarthVQADataset(Dataset):
 
         
         if self.vqa_transforms is not None:
-            vqa_image = self.vqa_transforms(image=vqa_image)['image']
+            if self.pred_mask_load:
+                blob = self.vqa_transforms(image=vqa_image, mask=mask)
+                image, mask = blob['image'], blob['mask']
+            else:
+                image = self.vqa_transforms(image=vqa_image)['image']
+                
         if self.feat_load:
             vqa_image = vqa_image.transpose([2, 0, 1])
             
