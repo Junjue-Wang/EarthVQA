@@ -31,26 +31,7 @@ COLOR_MAP = OrderedDict(
 )
 
 
-LABEL_MAP = OrderedDict(
-    IGNORE=-1,
-    Background=0,
-    Building=1,
-    Road=2,
-    River=3,
-    Barren=4,
-    Forest=5,
-    Agricultural=6,
-    Playground=7,
-    Pool=3,
-)
 
-
-
-def reclassify(cls):
-    new_cls = np.ones_like(cls, dtype=np.int64) * -1
-    for idx, label in enumerate(LABEL_MAP.values()):
-        new_cls = np.where(cls == idx, np.ones_like(cls)*label, new_cls)
-    return new_cls
 
 
 
@@ -85,8 +66,7 @@ class LoveDADataset(Dataset):
         raw_image = image.copy()
         mask=None
         if len(self.cls_filepath_list) > 0:
-            mask = imread(self.cls_filepath_list[idx]).astype(np.long)
-            mask = reclassify(mask)
+            mask = imread(self.cls_filepath_list[idx]).astype(np.int64) -1
             if self.transforms is not None:
                 blob = self.transforms(image=image, mask=mask)
                 image = blob['image']
