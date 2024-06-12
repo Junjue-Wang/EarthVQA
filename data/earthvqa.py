@@ -29,24 +29,6 @@ COLOR_MAP = OrderedDict(
 )
 
 
-LABEL_MAP = OrderedDict(
-    IGNORE=-1,
-    Background=0,
-    Building=1,
-    Road=2,
-    River=3,
-    Barren=4,
-    Forest=5,
-    Agricultural=6,
-    Playground=7,
-)
-
-
-def reclassify(cls):
-    new_cls = np.ones_like(cls, dtype=np.int64) * -1
-    for idx, label in enumerate(LABEL_MAP.values()):
-        new_cls = np.where(cls == idx, np.ones_like(cls)*label, new_cls)
-    return new_cls
 
 
 class EarthVQADataset(Dataset):
@@ -112,7 +94,7 @@ class EarthVQADataset(Dataset):
             vqa_image = imread(image_path)
             
         if self.mask_load:
-            mask = reclassify(imread(mask_path).astype(np.int64))
+            mask = imread(mask_path).astype(np.int64) - 1
 
         if self.feat_load:
             feat = h5py.File(feat_path,'r')
