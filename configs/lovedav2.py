@@ -9,7 +9,7 @@ data = dict(
         type='LoveDALoaderV2',
         params=dict(
             image_dir='./LoveDA/Train/images_png',
-            mask_dir='./LoveDA/Train/masks_png_v2',
+            mask_dir='./LoveDA/Train/masks_png',
             transforms=Compose([
                 RandomDiscreteScale([0.5, 0.75, 1.0, 1.25, 1.5, 1.75, 2.0]),
                 RandomCrop(512, 512),
