@@ -37,10 +37,10 @@ pip install git+https://github.com/qubvel/segmentation_models.pytorch
 EarthVQA
 ├── Train
 │   ├── images_png
-│   ├── masks_png_v2
+│   ├── masks_png
 ├── Val
 │   ├── images_png
-│   ├── masks_png_v2
+│   ├── masks_png
 ├── Test
 │   ├── images_png
 ├── Train_QA.json
