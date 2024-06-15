@@ -46,9 +46,9 @@ EarthVQA
 ├── Train_QA.json
 ├── Val_QA.json
 ├── Test_QA.json
-log
-├── sfpnr50.pth
-├── soba.pth
+├── log
+|   |—— sfpnr50.pth
+│   ├── soba.pth
 ```
 Note that the images are the same as the LoveDA dataset, so the urban and rural areas can be divided on your own.
 ### Test
