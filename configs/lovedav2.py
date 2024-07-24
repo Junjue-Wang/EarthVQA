@@ -8,8 +8,8 @@ data = dict(
     train=dict(
         type='LoveDALoaderV2',
         params=dict(
-            image_dir='./LoveDA/Train/images_png',
-            mask_dir='./LoveDA/Train/masks_png',
+            image_dir='./EarthVQA/Train/images_png',
+            mask_dir='./EarthVQA/Train/masks_png',
             transforms=Compose([
                 RandomDiscreteScale([0.5, 0.75, 1.0, 1.25, 1.5, 1.75, 2.0]),
                 RandomCrop(512, 512),
@@ -31,8 +31,8 @@ data = dict(
     test=dict(
         type='LoveDALoaderV2',
         params=dict(
-            #image_dir='./LoveDA/Train/images_png',
-            image_dir='./LoveDA/Test/images_png',
+            #image_dir='./EarthVQA/Train/images_png',
+            image_dir='./EarthVQA/Test/images_png',
             mask_dir=None,
             transforms=Compose([
                 Normalize(mean=(123.675, 116.28, 103.53),
