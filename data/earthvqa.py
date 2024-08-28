@@ -8,7 +8,7 @@ from skimage.io import imread
 import ever as er
 from ever.interface import ConfigurableMixin
 from collections import OrderedDict
-from ever.api.data import distributed
+from data import distributed
 import json
 import h5py
 
