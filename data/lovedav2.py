@@ -12,7 +12,7 @@ import ever as er
 from collections import OrderedDict
 from ever.interface import ConfigurableMixin
 from torch.utils.data import SequentialSampler
-from ever.api.data import distributed
+from data import distributed
 import numpy as np
 import logging
 
