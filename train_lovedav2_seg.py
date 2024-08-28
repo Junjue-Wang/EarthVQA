@@ -5,7 +5,7 @@ import os
 from tqdm import tqdm
 import random
 import json
-from ever.api import viz
+from module.viz import viz
 from data.lovedav2 import COLOR_MAP
 er.registry.register_all()
 
