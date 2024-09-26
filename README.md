@@ -81,17 +81,6 @@ If you use EarthVQA in your research, please cite our following papers.
         month={Mar.},
         volume={38},
         pages={5481-5489}}
-    @article{earthvqanet,
-        title = {EarthVQANet: Multi-task visual question answering for remote sensing image understanding},
-        journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-        volume = {212},
-        pages = {422-439},
-        year = {2024},
-        issn = {0924-2716},
-        doi = {https://doi.org/10.1016/j.isprsjprs.2024.05.001},
-        url = {https://www.sciencedirect.com/science/article/pii/S0924271624001990},
-        author = {Junjue Wang and Ailong Ma and Zihang Chen and Zhuo Zheng and Yuting Wan and Liangpei Zhang and Yanfei Zhong},
-    }
 ```
 
 
