@@ -81,6 +81,14 @@ If you use EarthVQA in your research, please cite our following papers.
         month={Mar.},
         volume={38},
         pages={5481-5489}}
+    @dataset{junjue_wang_2021_5706578,
+        author={Junjue Wang and Zhuo Zheng and Ailong Ma and Xiaoyan Lu and Yanfei Zhong},
+        title={Love{DA}: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation},
+        month=oct,
+        year=2021,
+        publisher={Zenodo},
+        doi={10.5281/zenodo.5706578},
+        url={https://doi.org/10.5281/zenodo.5706578}}
 ```
 
 
