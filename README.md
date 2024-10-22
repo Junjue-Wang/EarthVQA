@@ -4,7 +4,7 @@
 
 [[`Paper`](https://www.researchgate.net/publication/376519677_EarthVQA_Towards_Queryable_Earth_via_Relational_Reasoning-Based_Remote_Sensing_Visual_Question_Answering)],
 [[`Video`](https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-01-08/2q83o0t/EarthVQA-video.mp4)],
-[[`Dataset`](http://um7780bis3qkjojc.mikecrm.com/hsnbBLR)],
+[[`Dataset`](https://forms.office.com/r/g6hr92aCj5)],
 [[`Leaderboard-SEG`](https://www.codabench.org/competitions/2921)],
 [[`Leaderboard-VQA`](https://www.codabench.org/competitions/2922)]
 
@@ -93,8 +93,8 @@ If you use EarthVQA in your research, please cite our following papers.
 
 
 ## Dataset and Contest
-The EarthVQA dataset is released at [<b>Google Drive</b>](http://um7780bis3qkjojc.mikecrm.com/hsnbBLR)
-and [<b>Baidu Drive</b>](http://um7780bis3qkjojc.mikecrm.com/PnyrDF3)
+The EarthVQA dataset is released at [<b>Google Drive</b>](https://forms.office.com/r/g6hr92aCj5)
+and [<b>Baidu Drive</b>](https://forms.office.com/r/8ZNd25aXEb)
 
 
 
