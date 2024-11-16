@@ -1,4 +1,4 @@
-<h2 align="center">EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering</h2>
+![image](https://github.com/user-attachments/assets/9244adc8-5c1b-42b5-9c30-d4957f2a30d9)<h2 align="center">EarthVQA: Towards Queryable Earth via Relational Reasoning-Based Remote Sensing Visual Question Answering</h2>
 
 <h5 align="right">by <a href="https://junjue-wang.github.io/homepage/">Junjue Wang</a>, <a href="http://zhuozheng.top/">Zhuo Zheng</a>, Zihang Chen, Ailong Ma, and <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a></h5>
 
@@ -29,6 +29,7 @@
 ```bash
 pip install ever-beta
 pip install git+https://github.com/qubvel/segmentation_models.pytorch
+pip install albumentations==1.4.3 # This version is important for our repo.
 ```
 ### Data preparation
 - Download EarthVQA dataset and pre-trained weights
