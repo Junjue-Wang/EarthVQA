@@ -123,5 +123,7 @@ All images and their associated annotations in EarthVQA can be used for academic
 <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 
+## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=Junjue-Wang/EarthVQA&type=Date)](https://star-history.com/#Junjue-Wang/EarthVQA&Date)
 
