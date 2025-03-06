@@ -13,6 +13,8 @@
 </div>
 
 ## News
+- 2025/01/28, Our project was awarded the 'Most Innovative Project' in [Computer Vision Projects Expo 2024](https://www.readytensor.ai/cv-expo-2024).
+
 - 2024/05/12, Code and Pre-trained weights have been updated.
 
 - 2024/05/11, EarthVQA dataset has been released.
