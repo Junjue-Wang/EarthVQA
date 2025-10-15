@@ -1,7 +1,7 @@
 from albumentations import Compose, OneOf, Normalize
 from albumentations import HorizontalFlip, VerticalFlip, RandomRotate90, RandomCrop, RandomBrightnessContrast, Resize, Transpose
 import ever as er
-from ever.api.preprocess.albu import RandomDiscreteScale
+from ever.preprocess.albu import RandomDiscreteScale
 
 
 data = dict(
