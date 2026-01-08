@@ -4,7 +4,7 @@
 
 [[`Paper`](https://www.researchgate.net/publication/376519677_EarthVQA_Towards_Queryable_Earth_via_Relational_Reasoning-Based_Remote_Sensing_Visual_Question_Answering)],
 [[`Video`](https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-01-08/2q83o0t/EarthVQA-video.mp4)],
-[[`Dataset`](https://docs.google.com/forms/d/e/1FAIpQLSdBs3Z-TwEc9Z6ncZDTQWMse0zjQCP7qF6wHhw33kRjvIJkvQ/viewform?usp=publish-editor)],
+[[`Dataset`](https://huggingface.co/datasets/Kingdrone-Junjue/EarthVLSet)],
 [[`Leaderboard-SEG`](https://www.codabench.org/competitions/2921)],
 [[`Leaderboard-VQA`](https://www.codabench.org/competitions/2922)]
 
@@ -96,7 +96,7 @@ If you use EarthVQA in your research, please cite our following papers.
 
 
 ## Dataset and Contest
-The EarthVQA dataset is released at [<b>Google Drive</b>](https://docs.google.com/forms/d/e/1FAIpQLSdBs3Z-TwEc9Z6ncZDTQWMse0zjQCP7qF6wHhw33kRjvIJkvQ/viewform?usp=publish-editor).
+The EarthVQA dataset is released at [<b>Hugging Face</b>](https://huggingface.co/datasets/Kingdrone-Junjue/EarthVLSet).
 
 
 
