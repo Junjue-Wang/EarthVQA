@@ -13,6 +13,8 @@
 </div>
 
 ## News
+- 2026/01/08, We extended the scope of EarthVQA from China to a global scale at [<b>EarthVL</b>](https://github.com/Junjue-Wang/EarthVL) dataset.
+
 - 2025/01/28, Our project was awarded the 'Most Innovative Project' in [Computer Vision Projects Expo 2024](https://www.readytensor.ai/cv-expo-2024).
 
 - 2024/05/12, Code and Pre-trained weights have been updated.
