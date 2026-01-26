@@ -36,7 +36,7 @@ pip install git+https://github.com/qubvel/segmentation_models.pytorch
 pip install albumentations==1.4.3 # This version is important for our repo.
 ```
 ### Data preparation
-- Download EarthVQA dataset and pre-trained weights
+- Download EarthVQA dataset and [pre-trained weights](https://huggingface.co/Kingdrone-Junjue/EarthVQA-pretrained).
 - Construct the data as follows:
 ```none
 EarthVQA
