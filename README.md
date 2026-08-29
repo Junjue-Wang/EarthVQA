@@ -128,5 +128,11 @@ All images and their associated annotations in EarthVQA can be used for academic
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Junjue-Wang/EarthVQA&type=Date)](https://star-history.com/#Junjue-Wang/EarthVQA&Date)
+<a href="https://www.star-history.com/?type=date&repos=Junjue-Wang%2FEarthVQA">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Junjue-Wang/EarthVQA&type=date&theme=dark&legend=top-left&sealed_token=eYPFKLqlyLkj0m_gahvIYIn92wo_RTK_eHqLWw5AwB3D0FkDxHDu0QRcUOpREsR5kJtP3kQ47IxZ7kR06KBjqxv1GKQaZUYH7RkFm-M_eZfuPHspzbyFgf3Lumcoxv8FYdM8kxdOu-1BsUJc0fRi0Uq6lgYjqC_dqQjhq4ckqusKqSHXxEpks3r5ddQc" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Junjue-Wang/EarthVQA&type=date&legend=top-left&sealed_token=eYPFKLqlyLkj0m_gahvIYIn92wo_RTK_eHqLWw5AwB3D0FkDxHDu0QRcUOpREsR5kJtP3kQ47IxZ7kR06KBjqxv1GKQaZUYH7RkFm-M_eZfuPHspzbyFgf3Lumcoxv8FYdM8kxdOu-1BsUJc0fRi0Uq6lgYjqC_dqQjhq4ckqusKqSHXxEpks3r5ddQc" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Junjue-Wang/EarthVQA&type=date&legend=top-left&sealed_token=eYPFKLqlyLkj0m_gahvIYIn92wo_RTK_eHqLWw5AwB3D0FkDxHDu0QRcUOpREsR5kJtP3kQ47IxZ7kR06KBjqxv1GKQaZUYH7RkFm-M_eZfuPHspzbyFgf3Lumcoxv8FYdM8kxdOu-1BsUJc0fRi0Uq6lgYjqC_dqQjhq4ckqusKqSHXxEpks3r5ddQc" />
+ </picture>
+</a>
 
